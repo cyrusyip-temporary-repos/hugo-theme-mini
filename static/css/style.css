@@ -288,6 +288,11 @@ nav.navigation a.button {
   margin: 12px 0;
 }
 
+#list-page .header {
+  display: flex;
+  align-items: center;
+}
+
 #list-page .title {
   display: inline-block;
   color: #404040;
